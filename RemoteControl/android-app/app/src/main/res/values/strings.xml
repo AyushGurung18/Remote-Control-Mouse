@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Remote</string>
+    <string name="choose_tv">Choose a TV</string>
+    <string name="add_new_tv">Add New TV</string>
+    <string name="connect_by_ip">Connect by IP</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="server_name_hint">TV Name (e.g., Living Room TV)</string>
+    <string name="ip_address_hint">IP Address (e.g., 192.168.1.100)</string>
+    <string name="password_hint">Password (Optional)</string>
+    <string name="connect">Connect</string>
+    <string name="back">Back</string>
+    <string name="server_icon_desc">Server icon</string>
+    <string name="connection_status_desc">Connection status indicator</string>
+</resources>
